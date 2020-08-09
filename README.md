@@ -1,4 +1,4 @@
-# covid-19 Data Analysis using Python
+# Covid-19 Data Analysis using Python
 
 This project involves preprocessing and merging 2 datasets to calculate the needed measures and prepare them for an Analysis. 
 The project involves 2 datasets -
